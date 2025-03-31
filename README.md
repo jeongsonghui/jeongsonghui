@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :fish_cake: Songhee ( ≧ ᗜ ≦ ) ! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 광운대학교 재학 2022.3~ 현재</li><li> 광운대학교 CHIC 동아리 2024.3~2025.3</li><li> 광운대학교 aiaas LAB 2024.9 ~ 현재 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 광운대학교 재학 2022.3~ 현재</li><li> 광운대학교 CHIC 동아리 2024.3~2025.3</li><li> 광운대학교 AIaaS LAB 2024.9 ~ 현재 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :memo: Studying... </h2> <br> 
