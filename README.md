@@ -7,8 +7,8 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     <li> 광운대학교 재학 <code>2022.3 ~~</code> </li>
     <li> 광운대학교 CHIC 동아리 <code>2024.3~2025.3</code></li>
-    <li> 광운대학교 AIaaS LAB <code>2024.9 ~~</code> 
-    <li> 광운대학교 소원 봉사동아리 <code>2024.3 ~~</code> 
+    <li> 광운대학교 AIaaS LAB <code>2024.9 ~~ 2025.9</code> 
+    <li> 광운대학교 소원 봉사동아리 <code>2024.3 ~~ 2025.9</code> 
   </div> 
 </div>
 
